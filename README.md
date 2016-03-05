@@ -1,1 +1,1 @@
-#My solutions to the Coursera Using Python to Access Web Data course from the University of Michigan: https://www.coursera.org/learn/python-network-data.Python Data Structures
+#My solutions to the Coursera Using Python to Access Web Data course from the University of Michigan: https://www.coursera.org/learn/python-data/home/welcome
